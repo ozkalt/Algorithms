@@ -1,4 +1,4 @@
-TuÛba …zkal - 150120053
+Tugba Ozkal - 150120053
 
 IMPORTANT!
 Data sets and source codes should be in the same folder.
