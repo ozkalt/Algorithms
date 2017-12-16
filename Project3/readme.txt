@@ -1,4 +1,4 @@
-Tu€ba Özkal - 150120053
+Tu√õba ‚Ä¶zkal - 150120053
 
 IMPORTANT!
 Data sets and source codes should be in the same folder.
