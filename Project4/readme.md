@@ -1,7 +1,8 @@
-Compile
---------
+# Compile
+```
 g++ main.cpp -o source
-
-Run
----
+```
+# Run
+```
 ./source
+```
