@@ -1,4 +1,4 @@
-# Comppile
+# Compile
 ```
 g++ main.cpp -o Project1
 ```
